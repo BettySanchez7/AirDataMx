@@ -9,14 +9,11 @@ En esta etapa del proyecto se busca analizar más a profundidad y realizar visua
 
 ### Contenido del proyecto:
 
-● [Introducción e Identificación del problema ](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/Introduccion.md) 
+● [Introducción e Identificación del problema ](https://github.com/BettySanchez7/Proyecto_AnalisisDatosConPython/blob/main/docs/Introduccion.md) 
 
-● [Planteamiento de preguntas clave](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/preguntasclave.md)
+● [FASE 1 DEL PROYECTO (recolección, limpieza y transformación de datos)](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python)
 
-● [La fase 1 del proyecto : recolección, limpieza y transformación de datos la puedes encontrar aquí](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python)
-
-● [Análisis exploratorio de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/analisisexploratorio.md)
-
+● ANALISIS Y VISUALIZACIÓN DE DATOS:
 
  ### NOTEBOOK DEL PROYECTO 
  
