@@ -5,7 +5,7 @@
 DESCRIPCIÓN DEL PROYECTO: 
 
 Proyecto sobre el análisis sobre los parámetros de calidad del aire en CDMX y zonas aledañas con el fin de saber si la pandemia COVID19 influyó en estos parámetros y recolectar datos que puedan ayudar a visualizar y entender de una mejor manera la problemática de la contaminación en el aire.  
-En esta etapa del proyecto se busca analizar más a profundidad y realizar visualizaciones para una mejor comprensión.
+En esta etapa del proyecto se busca analizar más a profundidad los datos y realizar visualizaciones para una mejor comprensión.
 
 ### Contenido del proyecto:
 
@@ -13,7 +13,7 @@ En esta etapa del proyecto se busca analizar más a profundidad y realizar visua
 
 ● [FASE 1 DEL PROYECTO (recolección, limpieza y transformación de datos)](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python)
 
-● ANALISIS Y VISUALIZACIÓN DE DATOS:
+● FASE 2 ANALISIS Y VISUALIZACIÓN DE DATOS:
 
  ### NOTEBOOK DEL PROYECTO 
  
