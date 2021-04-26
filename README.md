@@ -30,6 +30,8 @@ En esta etapa del proyecto se busca analizar más a profundidad y realizar visua
 
 [PRESENTACIÓN DEL PROYECTO]()
 
+[DASHBOARD DEL PROYECTO CON STREAMLIT](https://github.com/BettySanchez7/proyecto_analisisdatos_streamlit)
+
 
 ### COLABORADORES DEL PROYECTO 
 
