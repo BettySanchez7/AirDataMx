@@ -18,6 +18,7 @@ En esta etapa del proyecto se busca analizar más a profundidad los datos y real
  ### NOTEBOOK DEL PROYECTO 
  
 ● [Jupyter Notebook con el contenido del proyecto PARTE 1](https://github.com/BettySanchez7/Proyecto_AnalisisDatosConPython/blob/main/Notebooks/libreta_modulo4.ipynb)
+
 ● [Jupyter Notebook con el contenido del proyecto PARTE 2(Mapas)](https://github.com/BettySanchez7/Proyecto_AnalisisDatosConPython/blob/main/Notebooks/Libreta_MODULO4_p2.ipynb)
 
 ### LINKS A INFORMACIÓN SOBRE EL PROYECTO:
