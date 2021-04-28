@@ -92,4 +92,4 @@ Figura 1. Clasificación IMECA
 Durante nuestra investigación nos dimos cuenta que la información sobre la calidad del aire en la Zona Metropolitana del Valle de México no es tan accesible: existen los datos y están abiertos al público, sin embargo, hay muy poca difusión sobre sus resultados, el último informe anual de la calidad del aire en ciudad de méxico se realizó en el 2018. Por lo tanto el objetivo de este proyecto es primero que nada analizar los datos disponibles para entender la problemática de la contaminación del aire en el Valle de México, y hacer que esta información sea más accesible, para luego proponer posibles soluciones.
 
 
-[Siguiente: preguntas clave](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/preguntasclave.md)
+
