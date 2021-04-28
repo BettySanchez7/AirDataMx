@@ -17,7 +17,8 @@ En esta etapa del proyecto se busca analizar más a profundidad los datos y real
 
  ### NOTEBOOK DEL PROYECTO 
  
-● [Jupyter Notebook con el contenido del proyecto](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
+● [Jupyter Notebook con el contenido del proyecto PARTE 1](https://github.com/BettySanchez7/Proyecto_AnalisisDatosConPython/blob/main/Notebooks/libreta_modulo4.ipynb)
+● [Jupyter Notebook con el contenido del proyecto PARTE 2(Mapas)](https://github.com/BettySanchez7/Proyecto_AnalisisDatosConPython/blob/main/Notebooks/Libreta_MODULO4_p2.ipynb)
 
 ### LINKS A INFORMACIÓN SOBRE EL PROYECTO:
 
@@ -25,9 +26,9 @@ En esta etapa del proyecto se busca analizar más a profundidad los datos y real
 
 [DOCUMENTACIÓN]()
 
-[PRESENTACIÓN DEL PROYECTO]()
+[PRESENTACIÓN DEL PROYECTO](https://github.com/BettySanchez7/Proyecto_AnalisisDatosConPython/blob/main/docs/Presentaci%C3%B3n_Modulo4.pdf)
 
-[DASHBOARD DEL PROYECTO CON STREAMLIT](https://github.com/BettySanchez7/proyecto_analisisdatos_streamlit)
+[DASHBOARD DEL PROYECTO CON STREAMLIT](https://analisiscalidadaire.herokuapp.com/)
 
 
 ### COLABORADORES DEL PROYECTO 
@@ -38,6 +39,6 @@ En esta etapa del proyecto se busca analizar más a profundidad los datos y real
     
 -   Jesús Ramseths Echeverría Rivera
     
--   Daniel Alberto Ramos López
+-   Daniel Alberto Ramos López (FASE 2- FASE 3)
 
 
