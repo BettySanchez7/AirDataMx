@@ -24,7 +24,7 @@ En esta etapa del proyecto se busca analizar más a profundidad los datos y real
 
 ### LINKS A INFORMACIÓN SOBRE EL PROYECTO:
 
-[LINK DEL VIDEO DEL PROYECTO]()
+[LINK DEL VIDEO DEL PROYECTO](https://www.youtube.com/watch?v=g2xihmSNKBY)
 
 [DOCUMENTACIÓN]()
 
