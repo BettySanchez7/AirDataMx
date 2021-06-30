@@ -40,10 +40,6 @@ Analizar los datos disponibles para entender la problemática de la contaminaci�
 
 La principal característica de los datos recolectados para este trabajo es que se constituye de datos temporales por lo que buscar un modelo que se adecue a esta característica es de importancia. El modelo de **regresión lineal** es el apropiado para realizar pronósticos cuando la tendencia es lineal pues su objetivo se basa en la comprensión de la naturaleza probabilística del modelo de regresión de tal manera que se pueda hacer un estimado del valor de una variable en función de una o más variables.
 
-[DOCUMENTACIÓN]()
-
-  
-
 [NOTEBOOKS DEL PROYECTO](https://github.com/BettySanchez7/AirDataMx/tree/main/Notebooks/MODULO5)
 
 [PRESENTACIÓN DEL PROYECTO]()
